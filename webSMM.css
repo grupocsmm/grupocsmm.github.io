@@ -54,9 +54,8 @@ header .textos-header{
 }
 
 .streaming{
-    display: flex;
-    height: 75%;
-    width: 75%;
+    width: 90%;
+    height: 90vh;
 }
 
 main {
