@@ -54,7 +54,7 @@ header .textos-header{
 }
 
 .streaming{
-    width: 80%;
+    width: 90%;
     height: 90vh;
 }
 
@@ -71,7 +71,7 @@ main {
 
 #id-paragraph{
     color: white;
-    margin-bottom: 20px;
+    margin-bottom: 12px;
     font-size: medium;
     text-decoration: underline;
 }
