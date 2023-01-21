@@ -59,12 +59,13 @@ header .textos-header{
     margin-right: 20px;
 }
 
-.contenedor-textos{
-    width: 45%;
-    margin-bottom: 20px;
-}
-
 main {
 	width: 100%;
 	margin: auto;
+}
+
+.info {
+    color: white;
+    font-size: medium;
+    text-align: center;
 }
