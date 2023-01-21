@@ -69,3 +69,10 @@ main {
     font-size: small;
     text-align: center;
 }
+
+#id-paragraph{
+    color: royalblue;
+    margin-bottom: 20px;
+    font-size: 30px;
+    text-decoration: underline;
+}
